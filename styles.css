@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f8ff; /* Alice blue (pastel light blue) */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Center the button in the middle of the screen */
+  button {
+    background-color: #007bff; /* Blue background for the button */
+    color: white; /* White text color */
+    font-size: 16px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  /* Add hover effect to the button */
+  button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+
+  /* Add some padding and a light shadow to the button */
+  button:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+  }
