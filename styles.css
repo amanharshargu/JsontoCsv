@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f8ff; /* Alice blue (pastel light blue) */
+    background-color: #ffffff; /* Alice blue (pastel light blue) */
     font-family: Arial, sans-serif;
     margin: 0;
     height: 100vh;
@@ -7,7 +7,6 @@ body {
     justify-content: center;
     align-items: center;
   }
-
   /* Center the button in the middle of the screen */
   button {
     background-color: #007bff; /* Blue background for the button */
